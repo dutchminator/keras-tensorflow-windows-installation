@@ -11,7 +11,7 @@ conda update conda
 conda update --all
 ```
 
-### Step 3: Install CUDA Tookit 8.0 GA2 <a href="https://developer.nvidia.com/cuda-80-ga2-download-archive" target="_blank">Download</a>
+### Step 3: Install CUDA Toolkit 8.0 GA2 <a href="https://developer.nvidia.com/cuda-80-ga2-download-archive" target="_blank">Download</a>
 Choose your version depending on your Operating System
 
 <p align="center"><img width=70% src="https://github.com/dutchminator/keras-tensorflow-windows-installation/blob/master/cuda8_windows7_local_installation.png"></p>
