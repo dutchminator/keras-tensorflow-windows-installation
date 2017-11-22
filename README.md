@@ -14,7 +14,7 @@ conda update --all
 ### Step 3: Install CUDA Toolkit 8.0 GA2 <a href="https://developer.nvidia.com/cuda-80-ga2-download-archive" target="_blank">Download</a>
 Choose your version depending on your Operating System
 
-<p align="center"><img width=70% src="https://github.com/dutchminator/keras-tensorflow-windows-installation/blob/master/cuda8_windows7_local_installation.png"></p>
+<p align="center"><img width=70% src="https://github.com/dutchminator/keras-tensorflow-windows-installation/blob/master/cuda8_windows10_local_installation.png"></p>
 
 As of writing (2017-11-22), tensorflow-gpu==1.4.0 does not support the latest CUDA 9 yet on Windows. See https://github.com/tensorflow/tensorflow/issues/14244 for progress. Make sure you get CUDA 8.0 and (separately) cuBLAS patch 2 from the CUDA download archives at https://developer.nvidia.com/cuda-80-ga2-download-archive . 
 
