@@ -18,7 +18,7 @@ Choose your version depending on your Operating System
 
 As of writing (2017-11-22), tensorflow-gpu==1.4.0 does not support the latest CUDA 9 yet on Windows. See https://github.com/tensorflow/tensorflow/issues/14244 for progress. Make sure you get CUDA 8.0 and (separately) cuBLAS patch 2 from the CUDA download archives at https://developer.nvidia.com/cuda-80-ga2-download-archive . 
 
-**Be aware** that the CUDA installer's default Express settings will also install (old) video drivers and other non-CUDA-relevant software.
+**Be aware** that the CUDA installer's default Express settings will also install (old) video drivers and other non-CUDA-relevant software. This is part of the reason why the local installer is 1.3GB (!). I prefer the network version and I uncheck all the non-CUDA options.
 
 ### Step 4: Download cuDNN 6.0 for CUDA 8 <a href="https://developer.nvidia.com/rdp/cudnn-download" target="_blank">Download</a>
 Choose your version depending on your Operating System.
