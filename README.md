@@ -31,7 +31,7 @@ Put your unzipped folder in C drive as follows:
 C:\cudnn-8.0-windows10-x64-v6.0
 ```
 ### Step 5: Add cuDNN into Environment PATH
-Press ctrl-R, and run the command: 
+Press [Win]-R, and run the command: 
 ```Run
 sysdm.cpl
 ```
